@@ -1,10 +1,12 @@
 Updated to work for 1.14.4.
+
 I have also replaced the ACE lib files to make it run.
+
 Unsure how to make the pkgmeta file to work and make a release from that or anything.
 
-------------------------------
-Below is unedited
-------------------------------
+
+# Original README below:
+---------
 
 
 - DEVELOMENT HAS STOPPED SINCE I NO LONGER PLAY THE GAME -
